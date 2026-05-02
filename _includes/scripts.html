@@ -1,11 +1,5 @@
 <script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
+
 {% include analytics.html %}
+
 {% include comments-providers/scripts.html %}
-<script>
-$(document).ready(function() {
-  $('.nav-dropdown a').on('click', function(e) {
-    e.stopPropagation();
-    window.location.href = $(this).attr('href');
-  });
-});
-</script>
