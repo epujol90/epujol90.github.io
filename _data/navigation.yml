@@ -10,6 +10,11 @@
 main:
   - title: "Research"
     url: /publications/
+      children:
+      - title: "Publications"
+        url: /publications/
+      - title: "Dissertation"
+        url: /projects/
 
   - title: "Teaching"
     url: /teaching/
