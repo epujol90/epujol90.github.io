@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ernest Pujol"
 title_separator          : "-"
 name                     : &name "Ernest Pujol"
@@ -23,7 +23,7 @@ repository               : "epujol90/epujol90.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : # "profile.png"
   name             : "Ernest Pujol"
   pronouns         : # example: "she/her"  
   bio              : "Philosophy of technology, media, and aesthetics. <br>Affiliated Researcher at Grup d'Estudis de Materialisme Històric, Societat Catalana de Filosofia (Institut d'Estudis Catalans)."
