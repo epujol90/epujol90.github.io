@@ -20,7 +20,7 @@ main:
     url: /teaching/
     children:
       - title: "Teaching Philosophy"
-        url: /teachingphilosophy/
+        url: /teaching-philosophy/
       - title: "Syllabi"
         url: /syllabi/
       - title: "Academic Writing"
