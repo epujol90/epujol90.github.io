@@ -56,18 +56,3 @@ body {
   padding-left: 3em;
   max-width: 100%;
 }
-
-#main {
-  position: relative;
-  z-index: 1;
-}
-
-.masthead {
-  position: relative;
-  z-index: 999;
-}
-
-.nav-dropdown {
-  z-index: 9999 !important;
-  pointer-events: auto !important;
-}
