@@ -57,7 +57,19 @@ body {
   max-width: 100%;
 }
 
+.page__content,
+.archive,
+.page {
+  position: relative;
+  z-index: 1;
+}
+
 .masthead {
   position: relative;
-  z-index: 400;
+  z-index: 999;
+}
+
+.nav-dropdown {
+  z-index: 9999;
+  pointer-events: auto !important;
 }
