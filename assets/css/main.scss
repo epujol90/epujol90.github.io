@@ -47,35 +47,3 @@
 body {
   font-family: "EB Garamond", serif;
 }
-
-.has-dropdown {
-  position: relative;
-
-  .dropdown {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    background: var(--masthead-background-color);
-    border: 1px solid var(--border-color);
-    list-style: none;
-    padding: 0.5rem 0;
-    margin: 0;
-    min-width: 180px;
-    z-index: 100;
-
-    li a {
-      display: block;
-      padding: 0.5rem 1rem;
-      white-space: nowrap;
-      &:hover {
-        background: var(--link-color-hover);
-        color: #fff;
-      }
-    }
-  }
-
-  &:hover .dropdown {
-    display: block;
-  }
-}
