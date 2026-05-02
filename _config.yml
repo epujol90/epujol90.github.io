@@ -23,7 +23,7 @@ repository               : "epujol90/epujol90.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  avatar           : # "avatar.jpg"
   name             : "Ernest Pujol"
   pronouns         : # example: "she/her"  
   bio              : "Philosophy of technology, media, and aesthetics. <br><br>Affiliated Researcher at <em>Grup d'Estudis de Materialisme Històric</em>, Societat Catalana de Filosofia (Institut d'Estudis Catalans)."
