@@ -345,6 +345,10 @@
       display: block;
       border-bottom: 1px solid var(--global-border-color);
 
+      &:first-child {
+        font-weight: normal;
+      }
+
       &:last-child {
         border-bottom: none;
       }
