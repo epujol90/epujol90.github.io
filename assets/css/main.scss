@@ -48,7 +48,11 @@ body {
   font-family: "EB Garamond", serif;
 }
 
-.page__inner-wrap {
+.layout--archive .page__inner-wrap {
+  padding-left: 2em;
+}
+
+.layout--single .page__inner-wrap {
   padding-left: 2em;
 }
 
