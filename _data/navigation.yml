@@ -10,7 +10,7 @@
 main:
   - title: "Research"
     url: /publications/
-      children:
+    children:
       - title: "Publications"
         url: /publications/
       - title: "Dissertation"
