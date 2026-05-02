@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Teaching Philosophy"
-permalink: /teachingphilosophy/
+permalink: /teaching-philosophy/
 author_profile: true
 ---
 
