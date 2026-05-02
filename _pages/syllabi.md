@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Courses"
+title: "Courses and Assignments"
 permalink: /syllabi/
 author_profile: true
 ---
