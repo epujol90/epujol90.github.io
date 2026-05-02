@@ -21,7 +21,7 @@ main:
     children:
       - title: "Teaching Philosophy"
         url: /teaching-philosophy/
-      - title: "Course Syllabi"
+      - title: "Courses"
         url: /syllabi/
       - title: "Writing Pedagogy"
         url: /writing-pedagogy/
