@@ -13,19 +13,19 @@ main:
     children:
       - title: "Publications"
         url: /publications/
-      - title: "Dissertation"
+      - title: "Projects"
         url: /projects/
 
   - title: "Teaching"
     url: /teaching/
     children:
       - title: "Teaching Philosophy"
-        url: /publications/
-      - title: "Courses"
-        url: /projects/
+        url: /teaching-philosophy/
+      - title: "Syllabi"
+        url: /syllabi/
       - title: "Academic Writing"
-        url: /projects/
-        
+        url: /academic-writing/
+
   - title: "Blog"
     url: /year-archive/
 
