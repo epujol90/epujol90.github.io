@@ -55,9 +55,3 @@ body {
 #main {
   min-height: 70vh;
 }
-
-@supports (-webkit-touch-callout: none) {
-  body {
-    overscroll-behavior-y: none;
-  }
-}
