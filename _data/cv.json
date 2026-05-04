@@ -51,6 +51,15 @@
       "courses": []
     },
     {
+      "institution": "UNED",
+      "area": "Filosofía",
+      "studyType": "Grado",
+      "startDate": "",
+      "endDate": "2026",
+      "gpa": null,
+      "courses": []
+    },
+    {
       "institution": "Universitat de Barcelona",
       "area": "Belles Arts",
       "studyType": "Llicenciatura",
