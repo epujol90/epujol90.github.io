@@ -230,7 +230,31 @@
       "course": "Teaching experience 1",
       "institution": "University 1, Department",
       "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "role": "",
+      "description": "",
+      "category": "Instructor of Record"
+    },
+    {
+      "course": "W 275 Critical Perspectives on AI, Media, and Society",
+      "institution": "Duke University (Global Culture and Theory Major)",
+      "date": "Spring 2025",
+      "role": "",
+      "description": "",
+      "category": "Instructor of Record"
+    },
+    {
+      "course": "LIT 317S Media Theory",
+      "institution": "Duke University (Global Culture and Theory Major)",
+      "date": "Fall 2024",
+      "role": "",
+      "description": "",
+      "category": "Instructor of Record"
+    },
+    {
+      "course": "LIT 190S Philosophies of Media and Technology",
+      "institution": "Duke University (Global Culture and Theory Major)",
+      "date": "Spring 2021",
+      "role": "",
       "description": "",
       "category": "Instructor of Record"
     },
