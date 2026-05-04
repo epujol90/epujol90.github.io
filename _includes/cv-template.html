@@ -143,6 +143,12 @@
               {% if education.studyType and education.studyType != "" %}
               <div class="cv-item-detail">{{ education.studyType }}</div>
               {% endif %}
+              {% if education.awards.size > 0 %}
+              <div class="cv-item-detail">{{ education.awards | join: ", " }}</div>
+              {% endif %}
+              {% if education.certificates.size > 0 %}
+              <div class="cv-item-detail">Certificates: {{ education.certificates | join: ", " }}</div>
+              {% endif %}
               {% if education.gpa %}
               <div class="cv-item-detail">GPA: {{ education.gpa }}</div>
               {% endif %}
