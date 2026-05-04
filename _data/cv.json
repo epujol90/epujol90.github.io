@@ -151,10 +151,50 @@
       "category": "Instructor of Record"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "LIT 690-8 Hegel, Bergson, and Deleuze"
+      "institution": "Duke University, Program in Literature",
+      "date": "Spring 2024",
+      "role": "Instructor: Professor Fredric Jameson",
+      "description": "",
+      "category": "Teaching Assistant"
+    },
+    {
+      "course": "LIT 380 Marxism & Society"
+      "institution": "Duke University, Program in Literature",
+      "date": "Fall 2020",
+      "role": "Instructor: Professor Michael Hardt"
+      "description": "",
+      "category": "Teaching Assistant"
+    },
+    {
+      "course": "LIT 301 Theory Today"
+      "institution": "Duke University, Program in Literature",
+      "date": "Spring 2020",
+      "role": "Instructor: Professor Nima Bassiri",
+      "description": "",
+      "category": "Teaching Assistant"
+    },
+    {
+      "course": "LIT 496S Global Cultural Studies Honors Thesis Seminar"
+      "institution": "Duke University, Program in Literature",
+      "date": "Spring 2019",
+      "role": "Instructor: Professor Cate I. Reilly",
+      "description": "",
+      "category": "Teaching Assistant"
+    },
+    {
+      "course": "LIT 302 Hashtags, Memes, Digital Tribes"
+      "institution": "Duke University, Program in Literature",
+      "date": "Fall 2018",
+      "role": "Instructor: Professor Negar Mottahedeh",
+      "description": "",
+      "category": "Teaching Assistant"
+    },
+    {
+      "course": "MCC-UE 0001 Introduction to Media Studies",
+      "institution": "New York University, Department of Media, Culture, and Communication",
+      "date": "Spring 2017",
+      "role": "Instructor: Professor Aurora Wallace",
       "description": "",
       "category": "Teaching Assistant"
     }
