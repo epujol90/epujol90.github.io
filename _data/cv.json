@@ -8,8 +8,8 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
@@ -24,9 +24,9 @@
         "url": "https://orcid.org/0009-0008-1850-035X"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
