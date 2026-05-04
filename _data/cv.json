@@ -41,10 +41,6 @@
       "gpa": null,
       "courses": [],
       "category": "Graduate Degrees (United States)",
-      "certificates": [
-        "Certificate in College Teaching"
-        "Certificate of Accomplishment in Teaching Writing in the Disciplines"
-      ]
     },
     {
       "institution": "New York University",
@@ -74,8 +70,7 @@
       "endDate": "2014",
       "gpa": null,
       "courses": [],
-      "category": "Undergraduate Degrees (Spain)",
-      "awards": "Premi Extraordinari de Llicenciatura (top 1-3% of graduating class)"
+      "category": "Undergraduate Degrees (Spain)"
     }
   ],
   "skills": [],
