@@ -34,8 +34,8 @@
   "education": [
     {
       "institution": "Duke University",
-      "area": "Doctor of Philosophy",
-      "studyType": "Graduate Program in Literature",
+      "area": "Graduate Program in Literature",
+      "studyType": "Doctor of Philosophy",
       "startDate": "",
       "endDate": "2025",
       "gpa": null,
@@ -43,17 +43,26 @@
     },
     {
       "institution": "New York University",
-      "area": "Master of Arts",
-      "studyType": "Media, Culture, and Communcation",
+      "area": "Media, Culture, and Communication",
+      "studyType": "Master of Arts",
       "startDate": "",
       "endDate": "2017",
       "gpa": null,
       "courses": []
     },
     {
+      "institution": "UNED",
+      "area": "Filosofía",
+      "studyType": "Grado",
+      "startDate": "",
+      "endDate": "2026",
+      "gpa": null,
+      "courses": []
+    }
+    {
       "institution": "Universitat de Barcelona",
-      "area": "Llicenciatura",
-      "studyType": "Belles Arts",
+      "area": "Belles Arts",
+      "studyType": "Llicenciatura",
       "startDate": "",
       "endDate": "2014",
       "gpa": null,
