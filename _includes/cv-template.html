@@ -338,7 +338,7 @@
       <li class="cv-item">
         <div class="cv-item-header">
           <div class="cv-item-title">{{ language.language }}</div>
-          <div class="cv-item-date">{{ language.fluency }}{% if language.cefr and language.cefr != "" %} ({{ language.cefr }}){% endif %}</div>
+          <div class="cv-item-date">{{ language.fluency }}{% if language.cefr and language.cefr != "" %} · {{ language.cefr }}{% endif %}</div>
         </div>
         <div class="cv-item-content">
           {% if language.certificate and language.certificate != "" %}
@@ -350,7 +350,7 @@
     </ul>
   </div>
   {% endif %}
-  
+
   {% if cv.interests.size > 0 %}
   <!-- Interests -->
   <div class="cv-section">
