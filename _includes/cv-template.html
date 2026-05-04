@@ -21,6 +21,8 @@
 
   .cv-item-header {
     margin-bottom: 0;
+    display: flex;
+    align-items: baseline;
   }
 
   .cv-item-content {
@@ -29,15 +31,20 @@
 
   .cv-item-title {
     margin-bottom: 0;
+    font-weight: normal; /* Ensure titles aren't bold by default */
   }
 
+  /* Unified line height for consistency across all sections */
   .cv-item-subtitle,
-  .cv-item-detail {
-    margin-bottom: 0;
+  .cv-item-detail,
+  .cv-item-title,
+  .cv-item-date,
+  .cv-language-cert {
+    line-height: 1.4;
+    margin-bottom: 0.2em;
     margin-top: 0;
     padding-bottom: 0;
     padding-top: 0;
-    line-height: 1.3;
   }
 
   .cv-education .cv-item-detail {
@@ -50,12 +57,54 @@
     font-style: italic;
     border-bottom: none;
     margin-top: 1em;
-    margin-bottom: 0;
+    margin-bottom: 0.5em;
     padding-bottom: 0;
   }
 
   .cv-list {
-    margin-top: 0.2em;
+    margin-top: 0.5em;
+    padding-left: 1.2em;
+  }
+
+  /* --- Presentation Specific Styles --- */
+  .cv-presentations .cv-item-title {
+    font-style: italic; /* Request #4: Italic titles */
+    font-weight: normal;
+  }
+
+  .cv-presentations .cv-item-date {
+    margin-right: 0.8em; /* Request #4: Space between year and title */
+    white-space: nowrap;
+    font-weight: bold;
+  }
+
+  /* --- Teaching Specific Styles --- */
+  .cv-teaching .cv-item-date {
+    min-width: 100px; /* Request #8: Prevent date cutting */
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  /* --- Language Specific Styles --- */
+  .cv-languages .cv-language-cefr {
+    font-weight: bold;
+    color: #555;
+    margin-left: 5px;
+  }
+  
+  .cv-language-cert {
+    font-size: 0.9em;
+    color: #666;
+    display: block;
+    margin-top: 2px;
+  }
+
+  /* --- Education Lists (Certificates/Awards) --- */
+  .cv-edu-list {
+    margin-top: 5px;
+    font-size: 0.95em;
+    list-style-type: disc;
+    padding-left: 1.2em;
   }
 </style>
 
@@ -96,9 +145,11 @@
     {% if cv.basics.profiles.size > 0 %}
     <div class="cv-profiles">
       {% for profile in cv.basics.profiles %}
+      {% if profile.network != "" %}
       <a href="{{ profile.url }}" target="_blank" class="cv-profile-link">
         <i class="fab fa-{{ profile.network | downcase }}"></i> {{ profile.network }}
       </a>
+      {% endif %}
       {% endfor %}
     </div>
     {% endif %}
@@ -132,6 +183,31 @@
               {% if education.studyType and education.studyType != "" %}
               <div class="cv-item-detail">{{ education.studyType }}</div>
               {% endif %}
+              
+              <!-- NEW: Display Certificates -->
+              {% if education.certificates and education.certificates.size > 0 %}
+                <div class="cv-item-detail">
+                  <strong>Certificates:</strong>
+                  <ul class="cv-edu-list">
+                    {% for cert in education.certificates %}
+                      <li>{{ cert }}</li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              {% endif %}
+
+              <!-- NEW: Display Awards -->
+              {% if education.awards and education.awards.size > 0 %}
+                <div class="cv-item-detail">
+                  <strong>Awards:</strong>
+                  <ul class="cv-edu-list">
+                    {% for award in education.awards %}
+                      <li>{{ award }}</li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              {% endif %}
+
               {% if education.gpa %}
               <div class="cv-item-detail">GPA: {{ education.gpa }}</div>
               {% endif %}
@@ -233,15 +309,15 @@
   {% endif %}
   
   {% if cv.presentations.size > 0 %}
-  <!-- Presentations/Talks -->
-  <div class="cv-section">
-    <h2>Presentations</h2>
+  <!-- Conference, Talks, and Presentations -->
+  <div class="cv-section cv-presentations">
+    <h2>Conference, Talks, and Presentations</h2>
     <ul class="cv-list">
       {% for talk in cv.presentations %}
       <li class="cv-item">
         <div class="cv-item-header">
-          <div class="cv-item-title">{{ talk.name }}</div>
           <div class="cv-item-date">{{ talk.date | slice: 0, 4 }}</div>
+          <div class="cv-item-title">{{ talk.name }}</div>
         </div>
         <div class="cv-item-content">
           <div class="cv-item-subtitle">{{ talk.event }}</div>
@@ -259,9 +335,9 @@
   {% endif %}
   
   {% if cv.teaching.size > 0 %}
-  <!-- Teaching -->
-  <div class="cv-section">
-    <h2>Teaching</h2>
+  <!-- Teaching Experience -->
+  <div class="cv-section cv-teaching">
+    <h2>Teaching Experience</h2>
     {% assign teaching_categories = cv.teaching | map: "category" | uniq %}
     {% for category in teaching_categories %}
       <div class="cv-subsection-title">{{ category }}</div>
@@ -271,13 +347,21 @@
           <li class="cv-item">
             <div class="cv-item-header">
               <div class="cv-item-title">{{ teaching.course }}</div>
-              <div class="cv-item-date">{{ teaching.date | slice: 0, 4 }}</div>
+              <div class="cv-item-date">{{ teaching.date }}</div>
             </div>
             <div class="cv-item-content">
               <div class="cv-item-subtitle">{{ teaching.institution }}</div>
-              {% if teaching.role %}
-              <div class="cv-item-detail">Role: {{ teaching.role }}</div>
+              
+              <!-- Logic for Role vs Course Instructor -->
+              {% if teaching.role and teaching.role != "" %}
+                {% if teaching.category == "Teaching Assistant" %}
+                  <div class="cv-item-detail"><strong>Course Instructor:</strong> {{ teaching.role }}</div>
+                {% else %}
+                  <!-- Only show Role if it's not empty and not a TA (though TAs use the logic above) -->
+                  <div class="cv-item-detail"><strong>Role:</strong> {{ teaching.role }}</div>
+                {% endif %}
               {% endif %}
+              
               {% if teaching.description %}
               <div class="cv-item-detail">{{ teaching.description }}</div>
               {% endif %}
@@ -320,14 +404,22 @@
   
   {% if cv.languages.size > 0 %}
   <!-- Languages -->
-  <div class="cv-section">
+  <div class="cv-section cv-languages">
     <h2>Languages</h2>
     <ul class="cv-list">
       {% for language in cv.languages %}
       <li class="cv-item">
         <div class="cv-item-content">
-          <div class="cv-item-title">{{ language.language }}</div>
+          <div class="cv-item-title">
+            {{ language.language }}
+            {% if language.cefr %}
+              <span class="cv-language-cefr">({{ language.cefr }})</span>
+            {% endif %}
+          </div>
           <div class="cv-item-detail">{{ language.fluency }}</div>
+          {% if language.certificate %}
+            <div class="cv-language-cert">{{ language.certificate }}</div>
+          {% endif %}
         </div>
       </li>
       {% endfor %}
