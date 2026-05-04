@@ -74,7 +74,6 @@
     }
   ],
   "skills": [],
-  "languages": [],
   "interests": [],
   "references": [],
   "publications": [
@@ -297,6 +296,33 @@
       "role": "Professor Aurora Wallace",
       "description": "",
       "category": "Teaching Assistant"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Catalan",
+      "fluency": "Native",
+      "certificate": "Certificat de nivell superior (C2) - Col·legi Oficial de Doctors i Llicenciats en Filosofia i Lletres de Catalunya"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native",
+      "certificate": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "C2",
+      "certificate": "Cambridge Proficiency Exam (Grade A: 226/230)"
+    },
+    {
+      "language": "French",
+      "fluency": "Advanced - B2",
+      "certificate": "Escola Oficial d'Idiomes"
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate - B1",
+      "certificate": "Escola Oficial d'Idiomes"
     }
   ]
 }
