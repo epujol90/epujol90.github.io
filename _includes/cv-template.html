@@ -261,7 +261,7 @@
   {% if cv.teaching.size > 0 %}
   <!-- Teaching -->
   <div class="cv-section">
-    <h2>Teaching</h2>
+    <h2>Teaching Experience</h2>
     {% assign teaching_categories = cv.teaching | map: "category" | uniq %}
     {% for category in teaching_categories %}
       <div class="cv-subsection-title">{{ category }}</div>
