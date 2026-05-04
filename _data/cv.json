@@ -120,24 +120,108 @@
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "Dialectics of Nature and Catastrophe: Crisis and Historical Rupture in the Age of Climate Collapse",
+      "event": "Historical Materialism Paris 2025: Conjurer la catastrophe",
+      "date": "2025-06",
+      "location": "Université Paris Dauphine (France)",
+      "description": "Co-presenter: Violeta Garrido"
+    },
+    {
+      "name": "Marx and the Machine: Lessons from the 1845 Notebooks",
+      "event": "International Congress Marx Today: New Readings and Perspectives",
+      "date": "2025-06",
+      "location": "Universidad Complutense de Madrid (Spain)",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Respondent to Leigh Claire La Berge, 'Fake Work: How I Began to Suspect Capitalism Is a Joke'",
+      "event": "The Critical Theory Workshop",
+      "date": "2025-04",
+      "location": "Duke University, Durham, NC (USA)",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Planetary Catastrophe and the Cosmotechnics of Capital: Towards a Critical Theory of Nature",
+      "event": "2024 Society for Literature, Science, and the Arts Annual Conference",
+      "date": "2024-11",
+      "location": "Dallas, TX (USA)",
+      "description": ""
+    },
+    {
+      "name": "Roundtable: Considerations for GenAI in Writing Centers and First-Year Writing",
+      "event": "Fall 2024 Ivy Plus Writing Consortium Conference",
+      "date": "2024-10",
+      "location": "Duke University, Durham, NC (USA)",
+      "description": ""
+    },
+    {
+      "name": "Labor, Ideology, or Reification? On 'Digital Capitalism' and the Technological Inertias of the Value-Form",
+      "event": "Marxism and the Digital Public, 26th Annual UF Marxist Reading Group Conference",
+      "date": "2024-04",
+      "location": "University of Florida, Gainesville, FL (USA)",
+      "description": ""
+    },
+    {
+      "name": "Adorno's Sojourn: Early Critical Theory and the Prehistory of the Californian Ideology",
+      "event": "The Californian Ideology Conference",
+      "date": "2024-04",
+      "location": "University of California, Santa Cruz, CA (USA)",
+      "description": ""
+    },
+    {
+      "name": "Two Miles to the World: Space, Place, and Access at the Writing Studio",
+      "event": "2024 Southeastern Writing Centers Association Conference",
+      "date": "2024-02",
+      "location": "Southeastern Writing Centers Association (USA)",
+      "description": "Co-presenters: Amber Manning, Jamie Browne, Margaret Swezey, and Cade Bourne"
+    },
+    {
+      "name": "Marx, Alienation, and the Critique of Technology: On Computational Reason and Capitalist Socio-Technics",
+      "event": "2023 Society for Literature, Science, and the Arts Annual Conference",
+      "date": "2023-10",
+      "location": "Tempe, Arizona (USA)",
+      "description": ""
+    },
+    {
+      "name": "A Dialectic of Last Things: Media, History, and Experience in Adorno and Kracauer",
+      "event": "2023 Society for Cinema and Media Studies Annual Conference",
+      "date": "2023-04",
+      "location": "Denver, Colorado (USA)",
+      "description": ""
+    },
+    {
+      "name": "Capital as a Theory of Social Power: Fetishism, Impersonal Social Domination, and the Violence of Abstraction",
+      "event": "2023 American Comparative Literature Association Annual Meeting",
+      "date": "2023-03",
+      "location": "Chicago, IL (USA)",
+      "description": ""
+    },
+    {
+      "name": "Digitality and Control before the Information Age: Charles Babbage, Andrew Ure, and the General Intellect of the Factory System",
+      "event": "Digital Histories Conference",
+      "date": "2022-11",
+      "location": "Brown University, Providence, RI (USA)",
+      "description": ""
+    },
+    {
+      "name": "Freedom, Necessity, and Purposiveness: Marx and the Problem of Freely Associated Production",
+      "event": "4th Annual Duke-Stanford Conference on Philosophy, Arts, and Literature",
+      "date": "2022-09",
+      "location": "Duke University, Durham, NC (USA)",
+      "description": ""
+    },
+    {
+      "name": "Respondent to Karen Ng, 'Humanism: A Defense'",
+      "event": "The Critical Theory Workshop",
+      "date": "2022-04",
+      "location": "Duke University, Durham, NC (USA)",
+      "description": ""
+    },
+    {
+      "name": "Respondent to Martín Arboleda, 'Circuits of Rent Extraction: The Political Economy of Property and Ownership in Supply Chain Capitalism'",
+      "event": "The Critical Theory Workshop",
+      "date": "2021-02",
+      "location": "Duke University, Durham, NC (USA)",
       "description": ""
     }
   ],
