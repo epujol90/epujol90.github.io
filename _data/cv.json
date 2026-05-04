@@ -80,6 +80,93 @@
   "skills": [],
   "interests": [],
   "references": [],
+  "fellowships": [
+    {
+      "year": "2024",
+      "title": "Conference Travel Award",
+      "issuer": "The Graduate School, Duke University"
+    },
+    {
+      "year": "2023",
+      "title": "Conference Travel Award",
+      "issuer": "The Graduate School, Duke University"
+    },
+    {
+      "year": "2023",
+      "title": "Competitive Summer Research Fellowship",
+      "issuer": "The Graduate School, Duke University"
+    },
+    {
+      "year": "2023",
+      "title": "Bass Digital Education Fellowship",
+      "issuer": "The Graduate School, Duke University"
+    },
+    {
+      "year": "2022",
+      "title": "Conference Travel Award",
+      "issuer": "The Graduate School, Duke University"
+    },
+    {
+      "year": "2022",
+      "title": "Ph.D. Computational Fellowship",
+      "issuer": "Center for Computational Thinking, Duke University"
+    },
+    {
+      "year": "2021",
+      "title": "Competitive Summer Research Fellowship",
+      "issuer": "The Graduate School, Duke University"
+    },
+    {
+      "year": "2021",
+      "title": "Top 5% Undergraduate Instructor in the Humanities",
+      "issuer": "Trinity College of Arts and Sciences, Duke University"
+    },
+    {
+      "year": "2020",
+      "title": "Competitive Summer Research Fellowship",
+      "issuer": "The Graduate School, Duke University"
+    },
+    {
+      "year": "2017",
+      "title": "Samuel Eshborn Service Award",
+      "issuer": "Steinhardt School of Culture, Education, and Human Development, New York University"
+    },
+    {
+      "year": "2017",
+      "title": "Academic Achievement Award",
+      "issuer": "Department of Media, Culture, and Communication, New York University"
+    },
+    {
+      "year": "2017",
+      "title": "Award for Outstanding Service to the Department",
+      "issuer": "Department of Media, Culture, and Communication, New York University"
+    },
+    {
+      "year": "2015",
+      "title": "Fulbright Foreign Student Scholarship",
+      "issuer": "Fulbright Commission on Cultural, Educational and Scientific Exchange between Spain and the United States of America"
+    },
+    {
+      "year": "2013",
+      "title": "Extraordinary Graduation Award (Premio Extraordinario de Licenciatura)",
+      "issuer": "University of Barcelona"
+    },
+    {
+      "year": "2012",
+      "title": "MOBINT 2012 Grant for International Mobility of University Students",
+      "issuer": "Government of Catalunya, Agency for the Management of University and Research Grants"
+    },
+    {
+      "year": "2012",
+      "title": "International Mobility Fellowship",
+      "issuer": "Vice-Rectorate for Students and Language Policy, University of Barcelona"
+    },
+    {
+      "year": "2012",
+      "title": "ERASMUS Program Grant",
+      "issuer": "European Union and Spain's Ministry of Education"
+    }
+  ],
   "publications": [
     {
       "name": "Benjamin's Phantasmagorias: Socially Necessary Semblance and the Dialectical Image of Capital",
