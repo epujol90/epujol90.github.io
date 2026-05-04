@@ -22,11 +22,6 @@
         "network": "ORCID",
         "username": "",
         "url": "https://orcid.org/0009-0008-1850-035X"
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
       }
     ]
   },
@@ -41,6 +36,10 @@
       "gpa": null,
       "courses": [],
       "category": "Graduate Degrees (United States)",
+      "certificates": [
+        "Certificate in College Teaching",
+        "Certificate of Accomplishment in Teaching Writing in the Disciplines"
+      ]
     },
     {
       "institution": "New York University",
@@ -50,7 +49,10 @@
       "endDate": "2017",
       "gpa": null,
       "courses": [],
-      "category": "Graduate Degrees (United States)"
+      "category": "Graduate Degrees (United States)",
+      "awards": [
+        "Fulbright Foreign Student Scholarship"
+      ]
     },
     {
       "institution": "Universidad Nacional de Educación a Distancia",
@@ -70,7 +72,10 @@
       "endDate": "2014",
       "gpa": null,
       "courses": [],
-      "category": "Undergraduate Degrees (Spain)"
+      "category": "Undergraduate Degrees (Spain)",
+      "awards": [
+        "Premio Extraordinario de Licenciatura"
+      ]
     }
   ],
   "skills": [],
@@ -78,7 +83,7 @@
   "references": [],
   "publications": [
     {
-      "name": "Benjamin’s Phantasmagorias: Socially Necessary Semblance and the Dialectical Image of Capital",
+      "name": "Benjamin's Phantasmagorias: Socially Necessary Semblance and the Dialectical Image of Capital",
       "publisher": "South Atlantic Quarterly, 124 (4): 761–787",
       "releaseDate": "2025-10-01",
       "website": "https://doi.org/10.1215/00382876-11963104",
@@ -86,7 +91,7 @@
       "category": "Academic Articles"
     },
     {
-      "name": "Review of ‘Adorno and Marx: Negative Dialectics and the Critique of Political Economy’ by Werner Bonefeld and Chris O’Kane (eds)",
+      "name": "Review of 'Adorno and Marx: Negative Dialectics and the Critique of Political Economy' by Werner Bonefeld and Chris O'Kane (eds)",
       "publisher": "Marx and Philosophy Review of Books",
       "releaseDate": "2022-09-12",
       "website": "https://marxandphilosophy.org.uk/reviews/20492_adorno-and-marx-negative-dialectics-and-the-critique-of-political-economy-by-werner-bonefeld-and-chris-okane-eds-reviewed-by-ernest-pujol-leon/",
@@ -94,20 +99,12 @@
       "category": "Book Reviews"
     },
     {
-      "name": "Filosofia, praxi i avenir. Consideracions des de la dialèctica negativa d’Adorno (Philosophy, Praxis, and Futurity: Considerations from Adorno’s Negative Dialectics)",
+      "name": "Filosofia, praxi i avenir. Consideracions des de la dialèctica negativa d'Adorno (Philosophy, Praxis, and Futurity: Considerations from Adorno's Negative Dialectics)",
       "publisher": "Col·loquis de Vic, Vol. 30, Societat Catalana de Filosofia.",
       "releaseDate": "2026-10-01",
       "website": "https://www.raco.cat/index.php/ColloquisVic",
       "summary": "Fall 2026",
       "category": "Forthcoming"
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work.",
-      "category": "Under Review"
     }
   ],
   "presentations": [
@@ -302,26 +299,31 @@
     {
       "language": "Catalan",
       "fluency": "Native",
+      "cefr": "C2",
       "certificate": "Certificat de nivell superior (C2) - Col·legi Oficial de Doctors i Llicenciats en Filosofia i Lletres de Catalunya"
     },
     {
       "language": "Spanish",
       "fluency": "Native",
+      "cefr": "C2",
       "certificate": "Native Speaker"
     },
     {
       "language": "English",
-      "fluency": "C2",
+      "fluency": "Full Professional",
+      "cefr": "C2",
       "certificate": "Cambridge Proficiency Exam (Grade A: 226/230)"
     },
     {
       "language": "French",
-      "fluency": "Advanced - B2",
+      "fluency": "Advanced",
+      "cefr": "B2",
       "certificate": "Escola Oficial d'Idiomes"
     },
     {
       "language": "German",
-      "fluency": "Intermediate - B1",
+      "fluency": "Intermediate",
+      "cefr": "B1",
       "certificate": "Escola Oficial d'Idiomes"
     }
   ]
