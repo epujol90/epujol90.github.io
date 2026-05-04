@@ -43,6 +43,16 @@
   .cv-education .cv-item-detail {
     font-style: italic;
   }
+
+  .cv-subsection-title {
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+    border-bottom: 1px solid var(--global-border-color);
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    padding-bottom: 0.2em;
+  }
 </style>
 
 <div class="cv-container">
@@ -102,30 +112,36 @@
   <!-- Education -->
   <div class="cv-section cv-education">
     <h2>Education</h2>
-    <ul class="cv-list">
-      {% for education in cv.education %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ education.area }}</div>
-          <div class="cv-item-date">{{ education.endDate }}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ education.institution }}</div>
-          {% if education.studyType and education.studyType != "" %}
-          <div class="cv-item-detail">{{ education.studyType }}</div>
+    {% assign education_categories = cv.education | map: "category" | uniq %}
+    {% for category in education_categories %}
+      <div class="cv-subsection-title">{{ category }}</div>
+      <ul class="cv-list">
+        {% for education in cv.education %}
+          {% if education.category == category %}
+          <li class="cv-item">
+            <div class="cv-item-header">
+              <div class="cv-item-title">{{ education.area }}</div>
+              <div class="cv-item-date">{{ education.endDate }}</div>
+            </div>
+            <div class="cv-item-content">
+              <div class="cv-item-subtitle">{{ education.institution }}</div>
+              {% if education.studyType and education.studyType != "" %}
+              <div class="cv-item-detail">{{ education.studyType }}</div>
+              {% endif %}
+              {% if education.gpa %}
+              <div class="cv-item-detail">GPA: {{ education.gpa }}</div>
+              {% endif %}
+              {% if education.courses.size > 0 %}
+              <div class="cv-item-detail">
+                <strong>Courses:</strong> {{ education.courses | join: ", " }}
+              </div>
+              {% endif %}
+            </div>
+          </li>
           {% endif %}
-          {% if education.gpa %}
-          <div class="cv-item-detail">GPA: {{ education.gpa }}</div>
-          {% endif %}
-          {% if education.courses.size > 0 %}
-          <div class="cv-item-detail">
-            <strong>Courses:</strong> {{ education.courses | join: ", " }}
-          </div>
-          {% endif %}
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
+        {% endfor %}
+      </ul>
+    {% endfor %}
   </div>
   {% endif %}
   
@@ -182,27 +198,33 @@
   <!-- Publications -->
   <div class="cv-section">
     <h2>Publications</h2>
-    <ul class="cv-list">
-      {% for publication in cv.publications %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ publication.name }}</div>
-          <div class="cv-item-date">{{ publication.releaseDate | slice: 0, 4 }}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ publication.publisher }}</div>
-          {% if publication.summary %}
-          <div class="cv-item-detail">{{ publication.summary }}</div>
+    {% assign publication_categories = cv.publications | map: "category" | uniq %}
+    {% for category in publication_categories %}
+      <div class="cv-subsection-title">{{ category }}</div>
+      <ul class="cv-list">
+        {% for publication in cv.publications %}
+          {% if publication.category == category %}
+          <li class="cv-item">
+            <div class="cv-item-header">
+              <div class="cv-item-title">{{ publication.name }}</div>
+              <div class="cv-item-date">{{ publication.releaseDate | slice: 0, 4 }}</div>
+            </div>
+            <div class="cv-item-content">
+              <div class="cv-item-subtitle">{{ publication.publisher }}</div>
+              {% if publication.summary %}
+              <div class="cv-item-detail">{{ publication.summary }}</div>
+              {% endif %}
+              {% if publication.website %}
+              <div class="cv-item-detail">
+                <a href="{{ publication.website }}" target="_blank">View Publication</a>
+              </div>
+              {% endif %}
+            </div>
+          </li>
           {% endif %}
-          {% if publication.website %}
-          <div class="cv-item-detail">
-            <a href="{{ publication.website }}" target="_blank">View Publication</a>
-          </div>
-          {% endif %}
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
+        {% endfor %}
+      </ul>
+    {% endfor %}
   </div>
   {% endif %}
   
@@ -236,25 +258,31 @@
   <!-- Teaching -->
   <div class="cv-section">
     <h2>Teaching</h2>
-    <ul class="cv-list">
-      {% for teaching in cv.teaching %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ teaching.course }}</div>
-          <div class="cv-item-date">{{ teaching.date | slice: 0, 4 }}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ teaching.institution }}</div>
-          {% if teaching.role %}
-          <div class="cv-item-detail">Role: {{ teaching.role }}</div>
+    {% assign teaching_categories = cv.teaching | map: "category" | uniq %}
+    {% for category in teaching_categories %}
+      <div class="cv-subsection-title">{{ category }}</div>
+      <ul class="cv-list">
+        {% for teaching in cv.teaching %}
+          {% if teaching.category == category %}
+          <li class="cv-item">
+            <div class="cv-item-header">
+              <div class="cv-item-title">{{ teaching.course }}</div>
+              <div class="cv-item-date">{{ teaching.date | slice: 0, 4 }}</div>
+            </div>
+            <div class="cv-item-content">
+              <div class="cv-item-subtitle">{{ teaching.institution }}</div>
+              {% if teaching.role %}
+              <div class="cv-item-detail">Role: {{ teaching.role }}</div>
+              {% endif %}
+              {% if teaching.description %}
+              <div class="cv-item-detail">{{ teaching.description }}</div>
+              {% endif %}
+            </div>
+          </li>
           {% endif %}
-          {% if teaching.description %}
-          <div class="cv-item-detail">{{ teaching.description }}</div>
-          {% endif %}
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
+        {% endfor %}
+      </ul>
+    {% endfor %}
   </div>
   {% endif %}
   
@@ -341,4 +369,3 @@
   </div>
   {% endif %}
 </div>
-
