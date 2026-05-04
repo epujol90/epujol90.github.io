@@ -18,6 +18,14 @@
     font-size: 1.8em;
     font-weight: normal;
   }
+
+  .cv-education .cv-item-content {
+    line-height: 1.3;
+  }
+
+  .cv-education .cv-item-detail {
+    font-style: italic;
+  }
 </style>
 
 <div class="cv-container">
@@ -75,7 +83,7 @@
   
   {% if cv.education.size > 0 %}
   <!-- Education -->
-  <div class="cv-section">
+  <div class="cv-section cv-education">
     <h2>Education</h2>
     <ul class="cv-list">
       {% for education in cv.education %}
