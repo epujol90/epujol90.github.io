@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "institution": "Duke University",
+      "area": "Doctor of Philosophy",
+      "studyType": "Graduate Program in Literature",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
+      "institution": "New York University",
+      "area": "Master of Arts",
+      "studyType": "Media, Culture, and Communcation",
+      "startDate": "",
+      "endDate": "2017",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Universitat de Barcelona",
+      "area": "Llicenciatura",
+      "studyType": "Belles Arts",
       "startDate": "",
       "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
