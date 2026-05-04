@@ -55,7 +55,7 @@
     {
       "institution": "Universidad Nacional de Educación a Distancia",
       "area": "Filosofía",
-      "studyType": "Grado",
+      "studyType": "Grado (current ECTS system)",
       "startDate": "",
       "endDate": "2026",
       "gpa": null,
@@ -65,7 +65,7 @@
     {
       "institution": "Universitat de Barcelona",
       "area": "Belles Arts",
-      "studyType": "Llicenciatura",
+      "studyType": "Llicenciatura (pre-Bologna system)",
       "startDate": "",
       "endDate": "2014",
       "gpa": null,
