@@ -165,6 +165,26 @@
     {% endfor %}
   </div>
   {% endif %}
+
+  {% if cv.fellowships.size > 0 %}
+  <!-- Fellowships, Grants, and Awards -->
+  <div class="cv-section">
+    <h2>Fellowships, Grants, and Awards</h2>
+    <ul class="cv-list">
+      {% for fellowship in cv.fellowships %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ fellowship.title }}</div>
+          <div class="cv-item-date">{{ fellowship.year }}</div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{{ fellowship.issuer }}</div>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
   
   {% if cv.work.size > 0 %}
   <!-- Work Experience -->
