@@ -78,12 +78,20 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work.",
+      "name": "Benjamin's Phantasmagorias: Socially Necessary Semblance and the Dialectical Image of Capital",
+      "publisher": "South Atlantic Quarterly, 124 (4): 761–787",
+      "releaseDate": "2025-10-01",
+      "website": "https://doi.org/10.1215/00382876-11963104",
+      "summary": "",
       "category": "Academic Articles"
+    },
+    {
+      "name": "Review of 'Adorno and Marx: Negative Dialectics and the Critique of Political Economy’ by Werner Bonefeld and Chris O’Kane (eds)",
+      "publisher": "Marx and Philosophy Review of Books",
+      "releaseDate": "2022-09-12",
+      "website": "https://marxandphilosophy.org.uk/reviews/20492_adorno-and-marx-negative-dialectics-and-the-critique-of-political-economy-by-werner-bonefeld-and-chris-okane-eds-reviewed-by-ernest-pujol-leon/",
+      "summary": "",
+      "category": "Book Reviews"
     },
     {
       "name": "Paper Title Number 2",
@@ -100,14 +108,6 @@
       "website": "https://academicpages.github.io/files/paper3.pdf",
       "summary": "This paper is about the number 3. The number 4 is left for future work.",
       "category": "Under Review"
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693.",
-      "category": "Book Reviews"
     }
   ],
   "presentations": [
