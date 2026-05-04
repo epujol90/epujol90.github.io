@@ -40,6 +40,7 @@
       "endDate": "2025",
       "gpa": null,
       "courses": []
+      "category": "graduate"
     },
     {
       "institution": "New York University",
@@ -49,6 +50,7 @@
       "endDate": "2017",
       "gpa": null,
       "courses": []
+      "category": "graduate"
     },
     {
       "institution": "Universidad Nacional de Educación a Distancia",
@@ -58,6 +60,7 @@
       "endDate": "2026",
       "gpa": null,
       "courses": []
+      "category": "undergraduate"
     },
     {
       "institution": "Universitat de Barcelona",
@@ -67,6 +70,7 @@
       "endDate": "2014",
       "gpa": null,
       "courses": []
+      "category": "undergraduate"
     }
   ],
   "skills": [],
