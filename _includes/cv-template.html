@@ -163,6 +163,12 @@
               {% if education.committee and education.committee != "" %}
               <div class="cv-item-detail" style="font-style: normal;">Committee: {{ education.committee }}</div>
               {% endif %}
+              {% if education.thesis and education.thesis != "" %}
+              <div class="cv-item-detail" style="margin-top: 0.4em; font-style: normal;">Thesis: &#8220;{{ education.thesis }}&#8221;</div>
+              {% endif %}
+              {% if education.advisor and education.advisor != "" %}
+              <div class="cv-item-detail" style="font-style: normal;">Advisor: {{ education.advisor }}</div>
+              {% endif %}
             </div>
           </li>
           {% endif %}
