@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /cv-json/
+
+Sitemap: https://www.ernestpujol.com/cv-json/
