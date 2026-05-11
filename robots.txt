@@ -1,4 +1,7 @@
 User-agent: *
 Disallow: /cv-json/
 
+User-agent: ia_archiver
+Disallow: /
+
 Sitemap: https://www.ernestpujol.com/cv-json/
