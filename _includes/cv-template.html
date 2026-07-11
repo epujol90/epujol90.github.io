@@ -377,26 +377,32 @@
   </div>
   {% endif %}
 
-{% if cv.service.size > 0 %}
-  <!-- Service -->
-  <div class="cv-section">
-    <h2>Service Experience</h2>
-    <ul class="cv-list">
-      {% for service in cv.service %}
-      <li class="cv-item">
-        <div class="cv-item-header">
-          <div class="cv-item-title">{{ service.role }}</div>
-          <div class="cv-item-date">{{ service.date }}</div>
-        </div>
-        <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ service.organization }}</div>
-        </div>
-      </li>
+  {% if cv.service.size > 0 %}
+    <!-- Service -->
+    <div class="cv-section">
+      <h2>Service Experience</h2>
+      {% assign service_categories = cv.service | map: "category" | uniq %}
+      {% for category in service_categories %}
+        <div class="cv-subsection-title">{{ category }}</div>
+        <ul class="cv-list">
+          {% for service in cv.service %}
+            {% if service.category == category %}
+            <li class="cv-item">
+              <div class="cv-item-header">
+                <div class="cv-item-title">{{ service.role }}</div>
+                <div class="cv-item-date">{{ service.date }}</div>
+              </div>
+              <div class="cv-item-content">
+                <div class="cv-item-subtitle">{{ service.organization }}</div>
+              </div>
+            </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
       {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
-
+    </div>
+    {% endif %}
+  
   {% if cv.affiliations.size > 0 %}
   <!-- Professional Affiliations -->
   <div class="cv-section cv-affiliations">
@@ -412,8 +418,6 @@
     </ul>
   </div>
   {% endif %}
-
-
   
   {% if cv.languages.size > 0 %}
   <!-- Languages -->
