@@ -405,27 +405,32 @@
       {
         "organization": "Historical Materialism Barcelona International Conference",
         "role": "Member of the Organizing Committee",
-        "date": "2026"
+        "date": "2026",
+        "category": "Service to the Profession"
       },
       {
         "organization": "Discourse: Journal for Theoretical Studies in Media and Culture",
         "role": "Ad Hoc Reviewer",
-        "date": "2026"
+        "date": "2026",
+        "category": "Service to the Profession"
       },
       {
         "organization": "Graduate Program in Literature, Duke University",
         "role": "Graduate Student Liaison Representative",
-        "date": "Fall 2020 - Spring 2022"
+        "date": "Fall 2020 - Spring 2022",
+        "category": "Departmental and University Service"
       },
       {
         "organization": "Department of Media, Culture, and Communication, New York University",
         "role": "Secretary of the MCC MA Student Association",
-        "date": "Fall 2016 - Spring 2017"
+        "date": "Fall 2016 - Spring 2017",
+        "category": "Departmental and University Service"
       },
       {
         "organization": "Facultat de Belles Arts, Universitat de Barcelona",
         "role": "Elected Undergraduate Student Representative",
-        "date": "Fall 2011 - Spring 2012"
+        "date": "Fall 2011 - Spring 2012",
+        "category": "Departmental and University Service"
       }
     ],
     "affiliations": [
