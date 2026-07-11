@@ -366,7 +366,43 @@
     </ul>
   </div>
   {% endif %}
-  
+
+{% if cv.service.size > 0 %}
+  <!-- Service -->
+  <div class="cv-section">
+    <h2>Service Experience</h2>
+    <ul class="cv-list">
+      {% for service in cv.service %}
+      <li class="cv-item">
+        <div class="cv-item-header">
+          <div class="cv-item-title">{{ service.role }}</div>
+          <div class="cv-item-date">{{ service.date }}</div>
+        </div>
+        <div class="cv-item-content">
+          <div class="cv-item-subtitle">{{ service.organization }}</div>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if cv.affiliations.size > 0 %}
+  <!-- Professional Affiliations -->
+  <div class="cv-section">
+    <h2>Professional Affiliations</h2>
+    <ul class="cv-list">
+      {% for affiliation in cv.affiliations %}
+      <li class="cv-item">
+        <div class="cv-item-content">
+          <div class="cv-item-title">{{ affiliation.organization }}</div>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
   {% if cv.languages.size > 0 %}
   <!-- Languages -->
   <div class="cv-section">
