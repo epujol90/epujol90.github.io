@@ -69,6 +69,10 @@
     white-space: nowrap;
   }
 
+  .cv-service .cv-item-title {
+  font-weight: normal;
+  }
+  
   .cv-affiliations .cv-item-title {
     font-weight: normal;
     font-size: 0.99em;
@@ -379,7 +383,7 @@
 
   {% if cv.service.size > 0 %}
     <!-- Service -->
-    <div class="cv-section">
+    <div class="cv-section cv-service">
       <h2>Service Experience</h2>
       {% assign service_categories = cv.service | map: "category" | uniq %}
       {% for category in service_categories %}
