@@ -398,7 +398,7 @@
 
   {% if cv.affiliations.size > 0 %}
   <!-- Professional Affiliations -->
-  <div class="cv-section">
+  <div class="cv-section cv-affiliations">
     <h2>Professional Affiliations</h2>
     <ul class="cv-list">
       {% for affiliation in cv.affiliations %}
@@ -411,6 +411,8 @@
     </ul>
   </div>
   {% endif %}
+
+
   
   {% if cv.languages.size > 0 %}
   <!-- Languages -->
