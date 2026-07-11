@@ -68,6 +68,15 @@
     padding-left: 1em;
     white-space: nowrap;
   }
+
+  .cv-affiliations .cv-item-title {
+    font-weight: normal;
+  }
+
+  .cv-affiliations .cv-item {
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
 </style>
 
 <div class="cv-container">
@@ -402,7 +411,7 @@
     </ul>
   </div>
   {% endif %}
-
+  
   {% if cv.languages.size > 0 %}
   <!-- Languages -->
   <div class="cv-section">
