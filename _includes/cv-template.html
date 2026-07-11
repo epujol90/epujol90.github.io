@@ -298,7 +298,7 @@
   {% if cv.presentations.size > 0 %}
   <!-- Presentations/Talks -->
   <div class="cv-section cv-presentations">
-    <h2>Conference Papers and Talks</h2>
+    <h2>Selected Presentations</h2>
     {% assign presentation_categories = cv.presentations | map: "category" | uniq %}
     {% for category in presentation_categories %}
       <div class="cv-subsection-title">{{ category }}</div>
