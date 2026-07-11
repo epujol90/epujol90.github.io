@@ -401,6 +401,30 @@
       "category": "Teaching Assistant"
     }
   ],
+  "service": [
+      {
+        "organization": "Graduate Program in Literature, Duke University",
+        "role": "Graduate Student Liaison Representative",
+        "date": "Fall 2020 - Spring 2022"
+      }
+    ],
+    "affiliations": [
+      {
+        "organization": "Societat Catalana de Filosofia (SCF)"
+      },
+      {
+        "organization": "Society for Literature, Science, and the Arts (SLSA)"
+      },
+      {
+        "organization": "Society for Cinema and Media Studies (SCMS)"
+      },
+      {
+        "organization": "Society for Phenomenology and Existential Philosophy (SPEP)"
+      },
+      {
+        "organization": "American Comparative Literature Association (ACLA)"
+      }
+    ],
   "languages": [
     {
       "language": "Catalan",
