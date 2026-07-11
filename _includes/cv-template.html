@@ -389,11 +389,11 @@
             {% if service.category == category %}
             <li class="cv-item">
               <div class="cv-item-header">
-                <div class="cv-item-title">{{ service.role }}</div>
+                <div class="cv-item-title">{{ service.organization }}</div>
                 <div class="cv-item-date">{{ service.date }}</div>
               </div>
               <div class="cv-item-content">
-                <div class="cv-item-subtitle">{{ service.organization }}</div>
+                <div class="cv-item-subtitle">{{ service.role }}</div>
               </div>
             </li>
             {% endif %}
@@ -402,7 +402,7 @@
       {% endfor %}
     </div>
     {% endif %}
-  
+
   {% if cv.affiliations.size > 0 %}
   <!-- Professional Affiliations -->
   <div class="cv-section cv-affiliations">
