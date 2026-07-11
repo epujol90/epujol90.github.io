@@ -194,9 +194,17 @@
       "releaseDate": "2026-10-01",
       "website": "https://www.raco.cat/index.php/ColloquisVic",
       "summary": "Fall 2026",
-      "category": "Forthcoming/In Press"
+      "category": "Academic Articles"
     },
-        {
+    {
+      "name": "Eigentum against Species-Essence: Max Stirner’s Anti-Humanism and the Birth of Historical Materialism",
+      "publisher": "Historical Materialism",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "category": "Under Review"
+    },
+    {
       "name": "Planetary Thinking and the Critical Theory of Nature: On Yuk Hui's Technological Sublime",
       "publisher": "Qui Parle: Critical Humanities and Social Sciences",
       "releaseDate": "",
@@ -206,6 +214,29 @@
     }
   ],
   "presentations": [
+      "name": "Value and the Limits of Capitalism",
+      "event": "Historical Materialism Barcelona International Conference (2-4 July 2026)",
+      "date": "2026",
+      "location": "Nau Bostik, Barcelona (Spain)",
+      "description": "",
+      "category": "Panel Chair"
+    },
+    {
+      "name": "Technology, Automation and Subsumption under Digital Forms of Capitalism",
+      "event": "Historical Materialism Barcelona International Conference (2-4 July 2026)",
+      "date": "2026",
+      "location": "Nau Bostik, Barcelona (Spain)",
+      "description": "",
+      "category": "Panel Chair"
+    },
+    {
+      "name": "Capitalism, Catastrophe and AI",
+      "event": "Historical Materialism Barcelona International Conference (2-4 July 2026)",
+      "date": "2026",
+      "location": "Nau Bostik, Barcelona (Spain)",
+      "description": "",
+      "category": "Panel Chair"
+    }, 
     {
       "name": "Marx i la tècnica [Marx and Technics]",
       "event": "Guess lecture for the third-year undergraduate seminar <em>Filosofia de la Cultura</em>, taught by Dr. Roger Castellanos.",
