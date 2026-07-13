@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a scholar of technology, media, and aesthetics trained in continental philosophy and critical theory in Europe and the United States. My research examines the history and politics of technological modernity -- particularly how the material infrastructures of modern life embody and uphold relations of power and domination, despite promising to liberate humanity from scarcity and toil.
+I am a scholar of technology, media, and aesthetics trained in continental philosophy and critical theory in Europe and the United States. My research examines the history and politics of technological modernity -- particularly how the material infrastructures of the modern world embody and uphold relations of power and domination, despite promising to liberate humanity from scarcity and toil.
 
 My doctoral research focused on the _longue durée_ of industrial modernity and what the early Frankfurt School theorists named “instrumental reason,” tracing its roots to the nineteenth century. My dissertation, _Karl Marx, Philosopher of Technics: Critique, Alienation, and the Materiality of Social Power_, grounded this inquiry in Marx’s encounter with the industrial literature of his time, drawing on previously unavailable materials from the _Marx-Engels Gesamtausgabe_ (MEGA²) that illuminate how he theorized the relationship between capitalism and the modern technical system. Against prevailing economicist and productivist readings, I argued that Marx understood industrial development and its constitutive mechanism -- the “subsumption” of the labor process by capital -- as an alienated organization of human-technical relations, whereby domination becomes embedded in the very conditions of human life.
 
