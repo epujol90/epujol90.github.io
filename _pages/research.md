@@ -23,7 +23,7 @@ My doctoral work centered on the _longue durée_ of industrial modernity and wha
   </div>
 
   <div>
-    <img src="/images/IMG_2486.jpeg" alt="description">
+    <img src="/images/IMG_2487.jpeg" alt="description">
     <p>Second caption</p>
   </div>
 
