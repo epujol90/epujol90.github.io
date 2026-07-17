@@ -24,7 +24,7 @@ My doctoral work centered on the _longue durée_ of industrial modernity and wha
 
   <div>
     <img src="/images/IMG_2487.jpeg" alt="description">
-    <p>Second caption</p>
+    <p>Karl Marx’s 1845 excerpts from the French translation of Charles Babbage’s <em>On the Economy of Machinery and Manufactures</em> (1832)</p>
   </div>
 
 </div>
