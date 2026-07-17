@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<div style="text-align: right; margin-left: 15%; font-size: 0.9em;">
+<div style="text-align: right; margin-left: 15%; font-size: 0.85em;">
 <em>“The technical object made its appearance in a world in which social structures and psychic contents were formed by work: the technical object thus entered into the world of work, instead of creating a technical world with new structures.”</em><br>
 — Gilbert Simondon
 </div>
