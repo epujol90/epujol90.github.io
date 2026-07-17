@@ -37,10 +37,10 @@
       "courses": [],
       "category": "Graduate Degrees (United States)",
       "certificates": [
-        "-Certificate in College Teaching<br>-Certificate of Accomplishment in Teaching Writing in the Disciplines"
+        "-Certificate in College Teaching<br>-Certificate of Accomplishment in Teaching Writing in&nbsp;the&nbsp;Disciplines"
       ],
-      "dissertation": "Karl Marx, Philosopher of Technics. Critique, Alienation, and the Materiality of Social Power",
-      "committee": "Michael Hardt (advisor), Mark Hansen (co-chair), Fredric Jameson, Markos Hadjioannou, Nima Bassiri"
+      "dissertation": "Karl Marx, Philosopher of Technics. Critique, Alienation, and the Materiality of&nbsp;Social&nbsp;Power",
+      "committee": "Michael&nbsp;Hardt&nbsp;(advisor), Mark&nbsp;Hansen&nbsp;(co-chair), Fredric&nbsp;Jameson, Markos&nbsp;Hadjioannou, Nima&nbsp;Bassiri"
     },
     {
       "institution": "New York University",
@@ -54,7 +54,7 @@
       "awards": [
         "Fulbright Scholar"
       ],
-      "thesis": "From Market Populism to the Occupation of Common Sense: A Genealogy of Neoliberal Reason",
+      "thesis": "From Market Populism to the Occupation of Common Sense: A Genealogy of&nbsp;Neoliberal&nbsp;Reason",
       "advisor": "Paula Chakravartty"
     },
     {
@@ -173,7 +173,7 @@
   ],
   "publications": [
     {
-      "name": "Benjamin’s Phantasmagorias: Socially Necessary Semblance and the Dialectical Image of Capital",
+      "name": "Benjamin’s Phantasmagorias: Socially Necessary Semblance and the Dialectical Image of&nbsp;Capital",
       "publisher": "<em>South Atlantic Quarterly</em>, 124 (4): 761–787.",
       "releaseDate": "2025-10-01",
       "website": "https://doi.org/10.1215/00382876-11963104",
@@ -189,7 +189,7 @@
       "category": "Book Reviews"
     },
     {
-      "name": "Filosofia, praxi i avenir. Consideracions des de la dialèctica negativa d’Adorno [Philosophy, Praxis, and Futurity: Considerations from Adorno’s Negative Dialectics]",
+      "name": "Filosofia, praxi i avenir. Consideracions des de la dialèctica negativa d’Adorno [Philosophy, Praxis, and Futurity: Considerations from Adorno’s Negative&nbsp;Dialectics]",
       "publisher": "<em>Col·loquis de Vic</em>, Vol. 30, Societat Catalana de Filosofia.",
       "releaseDate": "2026-10-01",
       "website": "https://www.raco.cat/index.php/ColloquisVic",
@@ -311,7 +311,7 @@
       "category": "Workshops and Roundtables"
     },
     {
-      "name": "Labor, Ideology, or Reification? On ‘Digital Capitalism’ and the Inertia of the Value-Form",
+      "name": "Labor, Ideology, or Reification? On ‘Digital Capitalism’ and the Inertia of&nbsp;the&nbsp;Value-Form",
       "event": "Marxism and the Digital Public, 26th Annual UF Marxist Reading Group Conference (12-14 April 2024)",
       "date": "2024-04",
       "location": "University of Florida, Gainesville, FL (USA)",
