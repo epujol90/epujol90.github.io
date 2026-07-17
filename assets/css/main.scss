@@ -48,12 +48,14 @@ body, h1, h2, h3, h4, h5, h6, p, li, a, div, span, nav, footer {
   font-family: "EB Garamond", serif;
 }
 
-.page {
-  padding-left: 7em;
-}
+@media (min-width: 64em) {
+  .page {
+    padding-left: 7em;
+  }
 
-.archive {
-  padding-left: 7em;
+  .archive {
+    padding-left: 7em;
+  }
 }
 
 #main {
