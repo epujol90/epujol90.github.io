@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "curriculum vitae"
 permalink: /cv-json/
 author_profile: false
 noindex: true
