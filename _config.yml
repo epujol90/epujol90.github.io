@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ernest Pujol"
+title                    : "Ernest Pujol León"
 title_separator          : "-"
 name                     : &name "Ernest Pujol"
 description              : &description "Ernest Pujol's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "avatar.jpg"
   name             : "Ernest Pujol"
   pronouns         : # example: "she/her"  
-  bio              : "Philosophy of technology, media, and aesthetics. <br><br>Affiliated Researcher at the Catalan Society of Philosophy (Institut d'Estudis Catalans)."
+  bio              : "Technology, media, and aesthetics. <br><br>Affiliated Researcher at the Catalan Society of Philosophy (Institut d'Estudis Catalans)."
   location         : # "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
