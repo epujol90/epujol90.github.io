@@ -19,7 +19,7 @@ My doctoral work centered on the _longue durée_ of industrial modernity and wha
 
   <div>
     <img src="/images/IMG_2486.jpeg" alt="description">
-    <p>First caption</p>
+    <p>Machine Hall, The Great Exhibition of 1851</p>
   </div>
 
   <div>
