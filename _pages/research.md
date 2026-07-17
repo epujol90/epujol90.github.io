@@ -22,7 +22,7 @@ My doctoral work centered on the _longue durée_ of industrial modernity and wha
 
 <div style="text-align: center;">
   <img src="/images/IMG_2487.jpeg" alt="description" style="width: 80%;">
-  <p style="font-style: italic; font-size: 0.85em; width: 80%; margin: 0.5em auto 2em;">Karl Marx (1845), Notes and excerpts from the French translation of Charles Babbage’s On the Economy of Machinery and Manufactures (1832)</p>
+  <p style="font-style: italic; font-size: 0.85em; width: 80%; margin: 0.5em auto 2em;">Karl Marx (1845), Notes and excerpts from the French translation of Charles&nbsp;Babbage’s On the Economy of Machinery and Manufactures (1832)</p>
 </div>
 
 As I revise this work into a monograph, my ongoing research traces how the core dynamic of subsumption has steered the course of the information age and is reasserting itself in the contemporary AI project -- especially in its claim to expand human autonomy through the automation of judgment and reason. 
