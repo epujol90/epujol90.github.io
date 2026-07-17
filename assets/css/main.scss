@@ -72,12 +72,9 @@ html, body {
   height: 100%;
 }
 
-.sidebar,
-.sidebar *,
+.sidebar *:not(.fas):not(.fab):not(.far):not(.fal):not(.fa),
 .author__name,
-.author__bio,
-.author__urls,
-.author__urls * {
+.author__bio {
   font-family: "EB Garamond", serif !important;
 }
 
