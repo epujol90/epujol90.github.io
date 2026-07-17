@@ -15,21 +15,15 @@ My research examines the history and politics of technological modernity. I am p
 
 My doctoral work centered on the _longue durée_ of industrial modernity and what the early Frankfurt School theorists called “instrumental reason,” tracing its roots to the nineteenth century. My dissertation, _Karl Marx, Philosopher of Technics: Critique, Alienation, and the Materiality of Social Power_, grounded this inquiry in mid-19th-century debates on technology and political economy that decisively shaped the first appraisals of industrialization, including Marx's key intervention. Drawing on understudied materials from the _Marx-Engels Gesamtausgabe_ (MEGA²), I reconstructed how Marx came to understand the relationship between capitalism and the modern technical system, against the backdrop of a techno-determinist common sense growing out of the Industrial Revolution. Contrary to prevailing economicist and productivist readings, I argued that Marx theorized industrial development and its constitutive mechanism -- the “subsumption” of the labor process by capital -- as an alienated organization of human-technical relations, whereby capitalist power becomes embedded in the very conditions of human life.
 
-<div class="image-pair">
-
-  <div>
-    <img src="/images/IMG_2486.jpeg" alt="description">
-    <p>Machine Hall, The Great Exhibition of 1851</p>
-  </div>
-
-  <div>
-    <img src="/images/IMG_2487.jpeg" alt="description">
-    <p>Karl Marx (1845), Notes and excerpts from the French translation of Charles Babbage’s On the Economy of Machinery and Manufactures (1832)</p>
-  </div>
-
+<div style="text-align: center;">
+  <img src="/images/IMG_2486.jpeg" alt="description" style="width: 60%;">
+  <p style="font-style: italic; font-size: 0.85em;">Machine Hall, The Great Exhibition of 1851</p>
 </div>
 
-
+<div style="text-align: center;">
+  <img src="/images/IMG_2487.jpeg" alt="description" style="width: 60%;">
+  <p style="font-style: italic; font-size: 0.85em;">Karl Marx (1845), Notes and excerpts from the French translation of Charles Babbage’s On the Economy of Machinery and Manufactures (1832)</p>
+</div>
 
 As I revise this work into a monograph, my ongoing research traces how the core dynamic of subsumption has steered the course of the information age and is reasserting itself in the contemporary AI project -- especially in its claim to expand human autonomy through the automation of judgment and reason. 
 
