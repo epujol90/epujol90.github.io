@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-<div style="text-align: right; margin-left: 20%;">
-<em>"The technical object made its appearance in a world in which social structures and psychic contents were formed by work: the technical object thus entered into the world of work, instead of creating a technical world with new structures."</em><br>
+<div style="text-align: right; margin-left: 15%;">
+<em>“The technical object made its appearance in a world in which social structures and psychic contents were formed by work: the technical object thus entered into the world of work, instead of creating a technical world with new structures.”</em><br>
 — Gilbert Simondon, <em>On the Mode of Existence of Technical Objects</em>
 </div>
 <br>
