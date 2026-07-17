@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 <div style="text-align: right; margin-left: 30%;">
-"_The technical object made its appearance in a world in which social structures and psychic contents were formed by work: the technical object thus entered into the world of work, instead of creating a technical world with new structures_."<br>
-— Gilbert Simondon
+<em>"The technical object made its appearance in a world in which social structures and psychic contents were formed by work: the technical object thus entered into the world of work, instead of creating a technical world with new structures."</em><br>
+— Gilbert Simondon, <em>On the Mode of Existence of Technical Objects</em>
 </div>
+<br>
 
 My research examines the history and politics of technological modernity. I am particularly interested in the ways the material infrastructures of the modern world embody and uphold relations of power and domination, despite promising to liberate humanity from scarcity and toil.
 
