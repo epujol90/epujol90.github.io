@@ -553,7 +553,7 @@
       "language": "English",
       "fluency": "Near-Native",
       "cefr": "C2",
-      "certificate": "Cambridge English Proficiency Exam (Grade A: 226/230)"
+      "certificate": "Cambridge English Proficiency Exam (Grade&nbsp;A:&nbsp;226/230)"
     },
     {
       "language": "French",
@@ -565,7 +565,7 @@
       "language": "German",
       "fluency": "Intermediate",
       "cefr": "B2",
-      "certificate": "Goethe-Institut Online Deutsch Lernen (In Progress)"
+      "certificate": "Goethe-Institut Online Deutsch Lernen (In&nbsp;Progress)"
     }
   ]
 }
