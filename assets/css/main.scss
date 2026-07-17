@@ -77,4 +77,12 @@ html, body {
   font-family: "EB Garamond", serif !important;
 }
 
+.layout--single .page,
+.layout--archive .page {
+  float: none;
+  width: 100%;
+  padding-right: 0;
+}
+
+
 
