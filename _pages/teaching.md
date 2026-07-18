@@ -6,7 +6,7 @@ author_profile: true
 ---
 Content coming soon.
 
-##**Courses:**
+##Courses:
 
 **W 275 Critical Perspectives on AI, Media, and Society**
 <br>Duke University (Thompson Writing Program), Spring 2025
