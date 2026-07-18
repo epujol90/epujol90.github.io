@@ -14,7 +14,7 @@ Writing-intensive course designed in collaboration with the Thompson Writing Pro
 <br> 
 
 
-**LIT 317S Media Theory Duke University**<br> 
+**LIT 317S Media Theory**<br> 
 _Duke University, Global Culture and Theory Major, Fall 2024_ <br>
 Required core course for Global Culture and Theory undergraduates pursuing a concentration in Film & Media. Reading seminar exploring key media theoretical concepts, including medium specificity, remediation, media ecology, cultural techniques, media archaeology, and technological determinism.
 <br>
