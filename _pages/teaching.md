@@ -10,7 +10,7 @@ Content coming soon.
 
 **W 275 Critical Perspectives on AI, Media, and Society**<br> 
 _Duke University, Thompson Writing Program, Spring 2025_ <br>
-Writing-intensive course designed in collaboration with the Thompson Writing Program and Duke’s Language, Arts & Media Program. Through a combination of classic (Turing, Wiener, Dreyfus, Searle) and contemporary readings (Daston, Hayles, Crawford, Pasquinelli, Bratton, Hui), the course examined the history of AI, historical debates about machine intelligence, and the socio-political ramifications of modern-day machine learning algorithms and large language models.
+Writing-intensive course designed in collaboration with the Thompson Writing Program and Duke’s Language, Arts & Media Program. Through a combination of classic (Turing, Wiener, Dreyfus, Searle) and contemporary readings (Daston, Hayles, Crawford, Pasquinelli, Bratton, Hui), the course examined the history of AI, philosophical debates about machine intelligence, and the social ramifications of modern-day ML algorithms and large language models.
 <br> 
 
 
