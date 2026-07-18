@@ -60,9 +60,9 @@
     {
       "institution": "Universidad Nacional de Educación a Distancia",
       "area": "Filosofía",
-      "studyType": "Grado (current EHEA system)<br>Secondary undergraduate degree; completed for academic accreditation in Spain",
+      "studyType": "Grado (current EHEA system)<br>Secondary undergraduate degree<br>Coursework transferred from Universitat de Barcelona (2013-2015)",
       "startDate": "",
-      "endDate": "2026",
+      "endDate": "2025",
       "gpa": null,
       "courses": [],
       "category": "Undergraduate Degrees (Spain)"
@@ -70,7 +70,7 @@
     {
       "institution": "Universitat de Barcelona",
       "area": "Belles Arts",
-      "studyType": "Llicenciatura (pre-Bologna system)",
+      "studyType": "Llicenciatura (pre-Bologna system)<br>International exchanges: Nottingham Trent University (Fall 2012), Cooper Union for the Advancement of Science and Art (Spring 2013)",
       "startDate": "",
       "endDate": "2013",
       "gpa": null,
