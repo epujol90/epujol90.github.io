@@ -32,8 +32,7 @@ Required core course for Global Culture and Theory undergraduates pursuing a con
 **LIT 190S Philosophies of Media and Technology**<br>
 _Duke University (Global Culture and Theory Major), Spring 2021_ <br>
 Survey course on foundational philosophical theories of media and techno-cultural analysis, covering seminal authors and schools of thought from Plato, Descartes, and Heidegger through the Frankfurt School, McLuhan, Foucault, deconstruction, cybernetics, Kittler, and post-humanism.
-
-**_Teaching Award_**: Top 5% Undergraduate Instructor in the Humanities (Overall Quality of Course and Instructor), Trinity College of Arts and Sciences (2021).
-<br>
 [Download the syllabus](/files/syllabus.pdf)
+<br>
+**_Teaching Award_**: Top 5% Undergraduate Instructor in the Humanities (Overall Quality of Course and Instructor), Trinity College of Arts and Sciences (2021).
 <br>
