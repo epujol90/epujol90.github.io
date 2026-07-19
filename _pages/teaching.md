@@ -36,5 +36,5 @@ Survey course on foundational philosophical theories of media and techno-cultura
 [Download the syllabus](/files/syllabus.pdf)
 
 
-**_Teaching Award_**: Top 5% Undergraduate Instructor in the Humanities (Overall Quality of Course and Instructor), Trinity College of Arts and Sciences (2021).
+<span style=\"display: block; margin-top: 0.6em;\"></span><strong><em>&#8226; **Teaching Award**: Top 5% Undergraduate Instructor in the Humanities (Overall Quality of Course and Instructor), Trinity College of Arts and Sciences (2021).
 
