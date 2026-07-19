@@ -13,7 +13,7 @@ Beyond traditional coursework, my teaching practice owes much to my writing cent
 <br>
 
 
-## Course Syllabi
+## Courses
 
 **W 275 Critical Perspectives on AI, Media, and Society**<br> 
 _Duke University, Thompson Writing Program, Spring 2025_ <br>
