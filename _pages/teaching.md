@@ -10,7 +10,7 @@ As a teacher, my main goal is to help students become informed interpreters of t
 My teaching experience includes both classroom instruction and writing center practice at NYU and Duke University, where I earned two certificates in college teaching and writing pedagogy. I also designed and taught several undergraduate courses on media studies, philosophy of technology, and critical theory. My teaching received consistently strong evaluations and a teaching award recognizing me among the top 5% of Duke instructors in the humanities. In addition to this classroom experience, I have completed specialized training in digital and distance education through a Bass Digital Education Fellowship, which allowed me to collaborate with Duke Learning Innovation and the Center for Computational Thinking in the design of a self-paced online course in data science and R.
 
 Beyond traditional coursework, my teaching practice owes much to my writing center experience. Over two consecutive years, I led more than 300 one-on-one writing consultations at Duke's Thompson Writing Studio, working with students from all majors across the university, and mentoring a cohort of new consultants in their first year at the Studio. This writing center work deepened my appreciation for student writing as an indispensable pedagogical tool for students to develop clarity and depth in their thinking. Both in the classroom and in individual consultations, I prioritize helping writers align their authorial voice and intentions with academic conventions and the intellectual conversations they enter. Above all, I strive to teach the inherently iterative nature of the writing process, necessary in refining one's argument over time, absorbing feedback, and adapting to different audiences.
-
+<br>
 
 
 ## Courses
@@ -19,13 +19,13 @@ Beyond traditional coursework, my teaching practice owes much to my writing cent
 _Duke University, Thompson Writing Program, Spring 2025_ <br>
 Writing-intensive course designed in collaboration with the Thompson Writing Program and Duke’s Language, Arts & Media Program. Through a combination of classic (Turing, Wiener, Dreyfus, Searle) and contemporary readings (Daston, Hayles, Crawford, Pasquinelli, Bratton, Hui), the course examined the history of AI, philosophical debates about machine intelligence, and the social ramifications of modern-day ML algorithms and large language models.
 <br> 
-
+<br>
 
 **LIT 317S Media Theory**<br> 
 _Duke University, Global Culture and Theory Major, Fall 2024_ <br>
 Required core course for Global Culture and Theory undergraduates pursuing a concentration in Film & Media. Reading seminar exploring key media theoretical concepts, including medium specificity, remediation, media ecology, cultural techniques, media archaeology, and technological determinism.
 <br>
-
+<br>
 
 **LIT 190S Philosophies of Media and Technology**<br>
 _Duke University (Global Culture and Theory Major), Spring 2021_ <br>
