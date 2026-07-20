@@ -16,7 +16,7 @@ My research examines the history and politics of technological modernity. I am p
 My doctoral work centered on the _longue durée_ of industrial modernity and what the early Frankfurt School theorists called “instrumental reason,” tracing its roots to the nineteenth century. My dissertation, _Karl Marx, Philosopher of Technics: Critique, Alienation, and the Materiality of Social Power_, grounded this inquiry in mid-19th-century debates on technology and political economy that decisively shaped the first appraisals of industrialization, including Marx's key intervention. Drawing on understudied materials from the _Marx-Engels Gesamtausgabe_ (MEGA²), I&nbsp;reconstructed how Marx came to understand the relationship between capitalism and the modern technical system, against the backdrop of a techno-determinist common sense growing out of the Industrial Revolution. Contrary to prevailing economicist and productivist readings, I argued that Marx theorized industrial development and its constitutive mechanism -- the “subsumption” of the labor process by capital -- as an alienated organization of human-technical relations, whereby capitalist power becomes embedded in the very conditions of human life.
 
 <div style="text-align: center;">
-  <img src="/images/IMG_2492.jpeg" alt="description" style="width: 80%;">
+  <img src="/images/IMG_2486.jpeg" alt="description" style="width: 80%;">
   <p style="font-style: italic; font-size: 0.85em; width: 80%; margin: 0.5em auto 2em;">Machine Hall, The Great Exhibition of 1851</p>
 </div>
 
@@ -30,7 +30,7 @@ As I revise this work into a monograph, my ongoing research traces how the core 
 Since the postwar period, the digital computer has been heralded as reintroducing human feedback into the unthinking systems that 20th-century critics of industrial modernity denounced as dehumanizing and oppressive. In so doing, the computational turn purportedly reversed the decline of reflexivity that these various critics -- from phenomenology and existentialism to critical theory itself -- attributed to mechanization and the reign of instrumental reason. Yet this optimistic self-image of the digital age has consistently faced scrutiny within media and technology studies -- most pointedly in light of Gilles Deleuze's late concept of “control societies," which directly linked the rise of the computer to a new diagram of power. Building on my previous inquiry into the relationship between social and technical forms, my current project takes up, more explicitly, the relationship between the industrial form of the labor process and computation, turning to the 20th-century history of computing, postwar philosophical appraisals of machine intelligence, and the ideological afterlives of the cybernetics movement. Through this constellation, I aim to ask how the ontology of computing machines is bound up with the sociality of capitalist life -- and whether the socialized intelligence they harness truly foretells its overcoming.
 
 <div style="text-align: center;">
-  <img src="/images/IMG_2486.jpeg" alt="description" style="width: 80%;">
+  <img src="/images/IMG_2492.jpeg" alt="description" style="width: 80%;">
   <p style="font-style: italic; font-size: 0.85em; width: 80%; margin: 0.5em auto 2em;">Whirlwind Computer Room Floor Plan, Barta Building, MIT (1951)</p>
 </div>
 
