@@ -29,7 +29,6 @@ As I revise this work into a monograph, my ongoing research traces how the core 
 
 Since the postwar period, the digital computer has been heralded as reintroducing human feedback into the unthinking technical systems that 20th-century critics of industrial modernity denounced as dehumanizing and oppressive. In so doing, the computational turn purportedly reversed the decline of reflexivity that these various critics -- from phenomenology and existentialism to critical theory itself -- attributed to mechanization and the reign of instrumental reason. Yet this optimistic self-image of the digital age has consistently faced scrutiny within media and technology studies -- most pointedly in light of Gilles Deleuze's late concept of “control societies," which directly linked the rise of the computer to a new diagram of power. Building on my previous inquiry into the relationship between social and technical forms, my current project takes up, more explicitly, the relationship between the industrial form of the labor process and computation, turning to the 20th-century history of computing, postwar philosophical appraisals of machine intelligence, and the ideological afterlives of the cybernetics movement. Through this constellation, I aim to ask how the ontology of computing machines is bound up with the sociality of capitalist life -- and whether the socialized intelligence they harness truly foretells its overcoming.
 <br>
-<br>
 
 
 <div style="text-align: center;">
