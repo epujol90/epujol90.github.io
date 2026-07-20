@@ -11,6 +11,8 @@ My teaching experience includes both classroom instruction and writing center pr
 
 Beyond traditional coursework, my teaching practice owes much to my writing center experience. Over two consecutive years, I led more than 300 one-on-one writing consultations at Duke's Thompson Writing Studio, working with students from all majors across the university, and mentoring a cohort of new consultants in their first year at the Studio. This writing center work deepened my appreciation for student writing as an indispensable pedagogical tool for developing clarity and depth of thought. Both in the classroom and in individual consultations, I teach writing as an inherently iterative practice through which arguments are tested and refined over time, particularly by absorbing feedback and adapting one's work to different audiences. Conscious of the barriers academic writing can raise, I also make it a priority to help students develop their authorial voice while negotiating scholarly conventions and the intellectual conversations they seek to join. 
 <br>
+<br>
+<br>
 
 
 ## Course Syllabi
