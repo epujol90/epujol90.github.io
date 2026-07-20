@@ -36,5 +36,5 @@ Since the postwar period, the digital computer has been heralded as reintroducin
 
 <div style="text-align: center;">
   <img src="/images/IMG_2495.jpeg" alt="description" style="width: 80%;">
-  <p style="font-style: italic; font-size: 0.85em; width: 80%; margin: 0.5em auto 2em;">The ten components of the IBM SAGE (Semi-Automatic Ground Enviroment) system (1951-1963)</p>
+  <p style="font-style: italic; font-size: 0.85em; width: 80%; margin: 0.5em auto 2em;">The ten components of the IBM Semi-Automatic Ground Enviroment (SAGE) computer system (1951-1963)</p>
 </div>
