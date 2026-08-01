@@ -8,7 +8,7 @@ author_profile: true
 As a teacher, my main goal is to help students become discerning interpreters of the technical systems that shape their everyday lives. To that end, my pedagogy foregrounds the value of the humanities in understanding technology, its crucial yet often imperceptible role in human culture and meaning-making practices, and how to think and live in a technologically mediated world. I invite students to pursue these questions across a variety of domains of knowledge and cultural production, including philosophy, the history of science and technology, the arts, popular culture, and digital media. Throughout these contexts, my teaching is organized around three core principles: <br>
 1. analytical reading and argument reconstruction<br>
 2. thinking historically and across media forms<br>
-3. writing as a tool for reflection and discovery<br><br>
+3. writing as a tool for reflection and discovery<br>
 
 My teaching experience includes both classroom instruction and writing center practice at NYU and Duke University, where I earned two certificates in college teaching and writing pedagogy. I also designed and taught several undergraduate courses on media studies, philosophy of technology, and critical theory. My teaching received consistently strong evaluations and a teaching award recognizing me among the top 5% of Duke instructors in the humanities. In addition to this classroom experience, I have completed specialized training in digital and distance education with a Bass Digital Education Fellowship, through which I collaborated with Duke Learning Innovation and the Center for Computational Thinking in the development of a self-paced online course in data science and R.
 
