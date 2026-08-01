@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-As a teacher, my main goal is to help students become discerning interpreters of the technical systems that shape their everyday lives. To that end, my pedagogy foregrounds the value of the humanities in understanding technology, its crucial yet often imperceptible role in human culture and meaning-making practices, and how to think and live in a technologically mediated world. I invite students to pursue these questions across a variety of domains of knowledge and cultural production, including philosophy, the history of science and technology, the arts, popular culture, and digital media. Throughout these contexts, my teaching is organized around three core principles: <br><br>
+As a teacher, my main goal is to help students become discerning interpreters of the technical systems that shape their everyday lives. To that end, my pedagogy foregrounds the value of the humanities in understanding technology, its crucial yet often imperceptible role in human culture and meaning-making practices, and how to think and live in a technologically mediated world. I invite students to pursue these questions across a variety of domains of knowledge and cultural production, including philosophy, the history of science and technology, the arts, popular culture, and digital media. Throughout these contexts, my teaching is organized around three core principles: <br>
 1. analytical reading and argument reconstruction<br>
 2. thinking historically and across media forms<br>
 3. writing as a tool for reflection and discovery<br>
