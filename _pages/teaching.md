@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Teaching Philosophy
 As a teacher, my main goal is to help students become discerning interpreters of the technical systems that shape their everyday lives. To that end, my pedagogy foregrounds the value of the humanities in understanding technology, its crucial yet often imperceptible role in human culture and meaning-making practices, and how to think and live in a technologically mediated world. I invite students to pursue these questions across a variety of domains of knowledge and cultural production, including philosophy, the history of science and technology, the arts, popular culture, and digital media. Throughout these contexts, my teaching is organized around three core principles: <br>
 1. analytical reading and argument reconstruction<br>
 2. thinking historically and across media forms<br>
@@ -20,7 +21,7 @@ Beyond traditional coursework, my teaching is deeply indebted to my writing cent
 ---
 
 ### Technology in the Classroom
-As a media and technology scholar, I take very seriously the media environments students inhabit and how technology enters the learning experience. Following a long tradition of inquiry into how technical systems shape human culture and cognition, I am particularly attuned to the effects of AI on higher education and students’ relationship to academic work. My courses establish clear technology use policies and are structured around assignments that emphasize process and revision over output, while regularly asking students to reflect on the value of taking charge of one’s intellectual growth. In this way, studying technology as an academic subject concerns not only ideas, texts, and their genealogies, but equally the ways the technologies ready to hand may or may not serve us as thinkers.
+As a media and technology scholar, I take very seriously the media environments students inhabit and how technology enters the learning experience. Following a long tradition of inquiry into how technical systems shape human culture and cognition, I am particularly attuned to the effects of AI on higher education and students’ relationship to academic work. My courses establish clear technology use policies and are structured around assignments that emphasize process and revision over output, while regularly asking students to reflect on the value of taking ownership over one’s intellectual growth. In this way, studying technology as an academic subject concerns not only ideas, texts, and their genealogies, but equally the ways the technologies ready to hand may or may not serve us as thinkers.
 <br>
 <br>
 <br>
