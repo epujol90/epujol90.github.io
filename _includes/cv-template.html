@@ -284,7 +284,7 @@
           <li class="cv-item">
             <div class="cv-item-header">
               <div class="cv-item-title">{{ publication.name }}</div>
-              <div class="cv-item-date">{{ publication.releaseDate | slice: 0, 4 }}</div>
+              <div class="cv-item-date">{% if publication.releaseDate contains "-" %}{{ publication.releaseDate | slice: 0, 4 }}{% else %}{{ publication.releaseDate }}{% endif %}</div>
             </div>
             <div class="cv-item-content">
               <div class="cv-item-subtitle">{{ publication.publisher }}</div>
