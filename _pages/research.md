@@ -45,9 +45,9 @@ Since the postwar period, the digital computer has been celebrated for reintrodu
 
 <br>
 
-### Work in Progress: Computation and Social Form
+### _Work in Progress: Computation and Social Form_
 
-What is a computational system and what form of human grouping begets its existence? Put another way, what is the form in which modern humans confront materiality such that it requires an automated system of universal commensuration and control?
+What is a computational system and what form of human grouping begets its existence? Or put another way, what is the form in which modern humans confront materiality such that it requires an automated system of universal commensuration and control?
 
 A computer is, on most modern definitions, a system that performs sequences of mathematical or logical operations on given inputs, according to rules specified in advance. So defined, many technical systems preceding the digital electronic computer would qualify as “computational,” from the Antikythera mechanism and the Jacquard loom to the assembly line of human calculators employed in the production of logarithmic tables until the late nineteenth century. Yet it is only under conditions of advanced industrial development that automated computational systems have come to organize the entirety of the human lifeworld, inserting information-processing operations at every level of modern social life. From scientific research and the harnessing of nature in industry to the circulation of goods and people and the tracking and management of consumer desires, behaviors, and political sentiments, there is no aspect of the capitalist social totality today that is not either directly or indirectly mediated by computational processes. The computer is, therefore, not just a “general-purpose” technology, but the principal medium of human psycho-social individuation in commodity-producing society -- indeed, the material embodiment of that mathematical objectification of the world that began, as the phenomenological tradition has it, with the mathematization of physics in the early modern period.
 
