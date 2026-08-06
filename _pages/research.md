@@ -45,7 +45,7 @@ Since the postwar period, the digital computer has been celebrated for reintrodu
 
 <br>
 
-### _Work in Progress: Computation and Social Form_
+### _**Work in Progress: Computation and Social Form**_
 
 What is a computational system and what form of human grouping begets its existence? Or put another way, what is the form in which modern humans confront materiality such that it requires an automated system of universal commensuration and control?
 
