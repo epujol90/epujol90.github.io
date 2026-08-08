@@ -43,7 +43,6 @@ Since the postwar period, the digital computer has been celebrated for reintrodu
 </div>
 
 
-<br>
 
 ## Work in Progress: Computation and Social Form
 
